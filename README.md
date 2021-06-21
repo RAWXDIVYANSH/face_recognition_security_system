@@ -5,7 +5,8 @@ which classifies whether the image given is of cat or dog.
 
 ![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/dataset/single_prediction/cat_or_dog_1.jpg?raw=true
 )
-
+![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/dataset/single_prediction/cat_or_dog_2.jpg?raw=true
+)
 
 # References
 https://keras.io/api/preprocessing/image/ 
