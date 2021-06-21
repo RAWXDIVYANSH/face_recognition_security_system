@@ -3,8 +3,8 @@
 It is a CNN model built from scratch. Trained on 4000 images of cats and dogs respectively and tested on set of 2000 images. It is a 2 layered convolution layered model
 which classifies whether the image given is of cat or dog.
 
-
-https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/dataset/single_prediction/cat_or_dog_1.jpg?raw=true
+![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/dataset/single_prediction/cat_or_dog_1.jpg?raw=true
+)
 
 
 # References
