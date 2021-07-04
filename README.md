@@ -25,7 +25,7 @@ https://github.com/tondra93/Building-a-Face-Detection-and-Recognition-Model-From
 
 Face directory contains a face detector model made with the OpenCV dnn module. The caffemodel(CNN model) on which the data is trained consist of 152 layer and it is able to detect faces in images and videos in real time.
 
-![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/face/images/5.jpg)
+![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/face/images/5.jpg) ! ![Alt text(https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/face/Screenshot%202021-07-04%20215606.png)
 ![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/dataset/single_prediction/cat_or_dog_2.jpg?raw=true)
 
 
