@@ -40,3 +40,15 @@ https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 https://www.pyimagesearch.com/2020/04/13/opencv-age-detection-with-deep-learning/
 
 https://realpython.com/face-recognition-with-python/#opencv
+
+
+# FaceRecognition
+
+It is complete face recognition model which is made with the help of OpenCV's deep neural network package. Input your own dataset, tune the SVM strictness(C)
+varible on your own data. I have used 10-15 images of each person to train but the more images you will use the better will be the accuracy.
+
+
+![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/face/images/5.jpg)
+
+
+
