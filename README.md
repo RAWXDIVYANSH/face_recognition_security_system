@@ -41,7 +41,7 @@ varible on your own data. I have used 10-15 images of each person to train but t
 Download openface.nn4.small2.v1.t7 file from https://github.com/pyannote/pyannote-data/blob/master/openface.nn4.small2.v1.t7 
 
 
-![Alt text]https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/FaceRecognition/Screenshot%202021-07-10%20144517.png)
+![Alt text](https://github.com/RAWXDIVYANSH/face_recognition_security_system/blob/main/FaceRecognition/Screenshot%202021-07-10%20144517.png)
 
 
 
